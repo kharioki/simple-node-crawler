@@ -1,0 +1,16 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "simple scraper tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kharioki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
